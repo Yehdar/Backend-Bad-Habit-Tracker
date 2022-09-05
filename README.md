@@ -4,3 +4,4 @@
 - Used tabulate to make data look more pleasing
 
 MASSIVE INSPIRATION FROM THIS VIDEO: https://youtu.be/snUk2Dx9Bz8
+- Followed this video as a backbone to the project (that said, of course, I added my own twist)
