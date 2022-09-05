@@ -1,6 +1,6 @@
 # Backend-Bad-Habit-Tracker
 - Created a backend bad habit tracker with python back in July/August 2022 that automated and documented the time and money saved.
-- Imported Pandas library to act as the pd
+- Imported Pandas library for the data
 - Used tabulate to make the data look better
 
 
