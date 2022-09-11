@@ -1,7 +1,7 @@
 # Backend-Bad-Habit-Tracker
 DO YOU NEED AN AUTOMATED APPLICATION TO ENCOURAGE YOU TO QUIT YOUR BAD HABITS?? WELL LOOK NO FURTHER!! 
 
-#Details
+# Details
 - Created a backend bad habit tracker with python back in July/August 2022 that automated and documented the time and money saved.
 - Imported Datatime API from Pandas for the data
 - Used tabulate to make the data look better
