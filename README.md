@@ -5,9 +5,12 @@
 - Imported Datatime database from Pandas for the data
 - Used tabulate to make everything outputted look better
 
-## TAKEAWAYS
-- Learned how to use python to automate a task
+## DRAWBACKS
+- No front-end (as such, the UI is awful. That said, this is a back-end project)
 
-## SHOUTOUTS
+## TAKEAWAYS
+- Make a second part to this project by integrating a front-end to make the habit tracker more visually-pleasing
+
+## SHOUT-OUTS
 WAS MASSIVELY INSPIRED FROM THIS VIDEO: https://youtu.be/snUk2Dx9Bz8
 - Used the video above as the backbone to the project (that said, of course, I added my own twist)
