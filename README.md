@@ -1,4 +1,4 @@
-# DO YOU NEED AN AUTOMATED TO ENCOURAGE YOU TO QUIT YOUR BAD HABITS?? WELL LOOK NO FURTHER!! 
+# DO YOU NEED AN AUTOMATED HABIT TRACKER TO ENCOURAGE YOU TO QUIT YOUR BAD HABITS?? WELL LOOK NO FURTHER!! 
 
 # DETAILS
 - Created a backend bad habit tracker with python back in July/August 2022 that automated and documented the time and money saved.
